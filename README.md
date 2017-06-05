@@ -1,7 +1,7 @@
 # Tercera Parcial
 Lunes 5 de junio, 2017 · Seminario de Gráfica Computacional
 
-La evaluación considera: 
+La evaluación considera el desarrollo de un sitio que contiene **6 páginas**. Cada página contiene una tabla que expone datos de: (1) GRADOS EN EL CARTÓN, (2) UBICACIÓN, (3) COSTO REAL, (4) EMPLEABILIDAD, (5) ACREDITACIÓN, (6) INGRESO Y PERMANENCIA.
 
 - **2.0** por calidad de recolección de datos (trabajo de la clase pasada)
 
