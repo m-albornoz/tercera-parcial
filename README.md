@@ -46,13 +46,13 @@ La evaluación considera el desarrollo de un sitio que contiene **6 páginas**. 
 #### No olvide que el estilo es fácilmente modificable mediante el uso de [Bootstrap](http://getbootstrap.com/customize/).
 
 
-## ASISTENCIA [] / NOTAS
+## ASISTENCIA [] / ENTREGA
 
 - Margarita Albornoz [1] / 
 - Gonzalo Armijo [2] / 
 - Nicole Cea [0] / 
 - Francisco Lagos [0] / 
-- Rocío Medrano [2] / 
+- Rocío Medrano [2] / https://github.com/rociormp/Entrega_5junio 
 - Francisca Paillas [2] / 
 - Esteban Parra [2] / 
 - Cristián Peña [0] / 
