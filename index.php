@@ -38,9 +38,9 @@ array_shift($csv);
 			<tr>
 				<th>Carrera</th>
 				<th>Institución</th>
-				<th>Región</th>
 				<th>Arancel</th>
-				<th>Duración</th>
+				<th>Arancel total formal</th>
+				<th>Arancel total real</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -50,9 +50,9 @@ array_shift($csv);
 			<tr>
 				<td><?php echo($csv[$a]["carrera"])?></td>
 				<td><?php echo($csv[$a]["institucion"])?></td>
-				<td><a href="<td><?php echo($csv[$a]["latitud"])?>,<?php echo($csv[$a]["longitud"])?></td>"><?php echo($csv[$a]["region"])?></a></td>
-				<td><?php echo($csv[$a]["arancel"])?></td>
-				<td><?php echo($csv[$a]["duracion_formal"])?></td>
+				<td><?php echo($csv[$a]["arancel"]);?></td>
+				<td><?php echo(($csv[$a]["duracion_formal"]*$csv[$a]["arancel"])/2);?></td>
+				<td><?php echo(($csv[$a]["duraccion_real"]*$csv[$a]["arancel"])/2);?></td>
 			</tr>
 
 			<?php };?>
