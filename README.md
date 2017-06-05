@@ -3,7 +3,7 @@ Lunes 5 de junio, 2017 · Seminario de Gráfica Computacional
 
 La evaluación considera el desarrollo de un sitio que contiene **6 páginas**. Cada página contiene una tabla que expone datos de: (1) [TÍTULOS Y GRADOS EN DISEÑO](https://github.com/rociormp/tabla_5junio), (2) [UBICACIÓN](https://github.com/Taurina/5_junio_Elizabeths), (3) COSTO REAL, (4) [EMPLEABILIDAD](https://github.com/m-albornoz/datos_5_junio_albornoz_armijo), (5) [ACREDITACIÓN](https://github.com/genisisr/tablaacreditacion5junio), (6) INGRESO Y PERMANENCIA.
 
-**La nota máxima (7.0) se obtiene de:**
+#### La nota máxima (7.0) se obtiene de:
 
 - **2.0** pts. por calidad de recolección de datos (trabajo de la clase pasada: lunes 29 de mayo, 2017)
 
@@ -13,7 +13,7 @@ La evaluación considera el desarrollo de un sitio que contiene **6 páginas**. 
 
 - **1.0** pto. por entrega antes de las 11.45 hrs.
 
-No olvide que entre los metadatos debe considerar: 
+#### No olvide que entre los metadatos debe considerar: 
 
 ```
 <!-- COMMON TAGS -->
@@ -41,7 +41,12 @@ No olvide que entre los metadatos debe considerar:
 
 ```
 
-### ASISTENCIA [] / NOTAS
+#### No olvide que entre los datos debe considerar las 6 páginas indicadas más arriba.
+
+#### No olvide que el estilo es fácilmente modificable mediante el uso de [Bootstrap](http://getbootstrap.com/customize/).
+
+
+## ASISTENCIA [] / NOTAS
 
 - Margarita Albornoz [1] / 
 - Gonzalo Armijo [2] / 
