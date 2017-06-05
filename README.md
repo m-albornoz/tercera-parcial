@@ -3,15 +3,43 @@ Lunes 5 de junio, 2017 · Seminario de Gráfica Computacional
 
 La evaluación considera el desarrollo de un sitio que contiene **6 páginas**. Cada página contiene una tabla que expone datos de: (1) [TÍTULOS Y GRADOS EN DISEÑO](https://github.com/rociormp/tabla_5junio), (2) [UBICACIÓN](https://github.com/Taurina/5_junio_Elizabeths), (3) COSTO REAL, (4) [EMPLEABILIDAD](https://github.com/m-albornoz/datos_5_junio_albornoz_armijo), (5) [ACREDITACIÓN](https://github.com/genisisr/tablaacreditacion5junio), (6) INGRESO Y PERMANENCIA.
 
-- **2.0** por calidad de recolección de datos (trabajo de la clase pasada)
+**La nota máxima (7.0) se obtiene de:**
 
-- **2.0** por calidad de la propuesta de tabla (lógica relacional)
+- **2.0** pts. por calidad de recolección de datos (trabajo de la clase pasada: lunes 29 de mayo, 2017)
 
-- **2.0** por calidad del sitio con las tablas propia y ajenas (metadatos, contenidos y estilo)
+- **2.0** pts. por calidad de la propuesta de tabla (lógica relacional en las 3 últimas columnas de la tabla)
 
-- **1.0** por entrega antes de las 11.45 hrs.
+- **2.0** pts. por calidad del sitio con las tablas propia y ajenas (metadatos, contenidos y estilo)
 
-**7.0 es el total ideal**
+- **1.0** pto. por entrega antes de las 11.45 hrs.
+
+No olvide que entre los metadatos debe considerar: 
+
+```
+<!-- COMMON TAGS -->
+<meta charset="utf-8">
+<title>algo</title>
+<!-- Search Engine -->
+<meta name="description" content="algo">
+<meta name="image" content="algo">
+<!-- Schema.org for Google -->
+<meta itemprop="name" content="algo">
+<meta itemprop="description" content="algo">
+<meta itemprop="image" content="algo">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="algo">
+<meta name="twitter:description" content="algo">
+<!-- Open Graph general (Facebook, Pinterest & Google+) -->
+<meta name="og:title" content="algo">
+<meta name="og:description" content="algo">
+<meta name="og:image" content="algo">
+<meta name="og:url" content="algo">
+<meta name="og:site_name" content="algo">
+<meta name="og:locale" content="es_CL">
+<meta name="og:type" content="website">
+
+```
 
 ### ASISTENCIA [] / NOTAS
 
