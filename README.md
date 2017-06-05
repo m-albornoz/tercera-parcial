@@ -1,7 +1,7 @@
 # Tercera Parcial
 Lunes 5 de junio, 2017 · Seminario de Gráfica Computacional
 
-La evaluación considera el desarrollo de un sitio que contiene **6 páginas**. Cada página contiene una tabla que expone datos de: (1) [TÍTULOS Y GRADOS EN DISEÑO](https://github.com/rociormp/tabla_5junio), (2) [UBICACIÓN](https://github.com/Taurina/5_junio_Elizabeths), (3) COSTO REAL, (4) [EMPLEABILIDAD](https://github.com/m-albornoz/datos_5_junio_albornoz_armijo), (5) [ACREDITACIÓN](https://github.com/genisisr/tablaacreditacion5junio), (6) INGRESO Y PERMANENCIA.
+La evaluación considera el desarrollo de un sitio que contiene **6 páginas**. Cada página contiene una tabla que expone datos de: (1) [TÍTULOS Y GRADOS EN DISEÑO](https://github.com/rociormp/tabla_5junio), (2) [UBICACIÓN](https://github.com/Taurina/5_junio_Elizabeths), (3) COSTO REAL, (4) [EMPLEABILIDAD](https://github.com/m-albornoz/datos_5_junio_albornoz_armijo), (5) [ACREDITACIÓN](https://github.com/genisisr/tablaacreditacion5junio), (6) [INGRESO Y PERMANENCIA](https://github.com/eparraaravena/datos-esteban).
 
 #### La nota máxima (7.0) se obtiene de:
 
